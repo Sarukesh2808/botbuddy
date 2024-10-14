@@ -60,22 +60,18 @@ Start the Server:
 node app.js
 Access the Chatbot:
 
-Open your browser and go to 
-<!-- Replace with your screenshot filename -->
+Open your browser and go to https://botbuddy-ht6w.onrender.com/
+![{0FBB828F-071C-49C6-B4CF-59BED0F303ED}](https://github.com/user-attachments/assets/4f4feb10-1f0e-4a6e-9b89-d46fc495f48c)
+
 
 How to Use
 Type a message in the input box and hit the "Send" button.
-The bot will respond with predefined replies based on your input.
-<!-- Replace with your screenshot filename -->
+
 
 Screenshots
 Chatbot Interface:
+![{F7DD5E97-FABC-4D7C-8E50-323486D2CC7A}](https://github.com/user-attachments/assets/e3eec968-2f50-4d00-884e-f51c6724334b)
 
-<!-- Replace with your screenshot filename -->
-
-User Interaction:
-
-<!-- Replace with your screenshot filename -->
 
 Conclusion
 In this documentation, we created a basic chatbot using Node.js, Express, MongoDB, and Pug templates. The project demonstrates how to build a simple application with user interaction capabilities and data persistence using a NoSQL database.
